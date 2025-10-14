@@ -124,14 +124,6 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 
 这是一个用于教育和研究目的的私有 API 实现。使用此 API 可能违反 Instagram 的服务条款。开发者不对使用此 API 导致的任何账户限制、封禁或其他后果负责。请始终确保遵守 Instagram 的政策和当地法规。
 
-## 许可证
-
-请参阅 LICENSE 文件了解许可信息。
-
-## 贡献
-
-欢迎贡献！在提交拉取请求之前，请阅读贡献指南。
-
 ---
 
 **注意**：此 API 基于 Instagram iOS V397.1 的逆向工程。随着 Instagram 更新其平台，端点和功能可能会发生变化。请始终参考 [Swagger 文档](https://api.************.com/swagger/#tag/Instagram) 以获取最新的 API 规范。
