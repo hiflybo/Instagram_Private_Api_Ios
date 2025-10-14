@@ -140,9 +140,9 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 
 如果您有任何问题、建议或需要技术支持，请通过以下方式联系我：
 
-📱 **Telegram**: [@LornTom](https://t.me/LornTom)
+📱 **Telegram**: <span style="color: #48dbfb;">[@LornTom](https://t.me/LornTom)</span>
 
-📧 **Email**: t303326#gmail.com
+📧 **Email**: <span style="color: #ff6b6b;">t303326#gmail.com</span>
 
 ---
 
