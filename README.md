@@ -2,7 +2,7 @@
 
 ## 概述
 
-本仓库包含了针对 Instagram iOS V397.1 的全面私有 API 实现。该 API 提供了对 Instagram 功能的程序化访问，这些功能在官方 Instagram Graph API 中是不可用的，使开发者能够构建高级自动化工具和应用程序。
+本仓库包含了针对 Instagram iOS V397.1 的全面私有 API 实现。该 API 提供了对 Instagram 功能的程序化访问，使开发者能够构建高级自动化工具和应用程序。
 
 Instagram 397.1.0.38.81 (iPhone10,6; iOS 16_6_1; en_US; en; scale=3.00; 1125x2436; 790717060) AppleWebKit/420+
 23966c53a485abc8a46056e59953606212796f430df44d03b1024a9403373fd7
@@ -133,3 +133,15 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 ---
 
 **注意**：此 API 基于 Instagram iOS V397.1 的逆向工程。随着 Instagram 更新其平台，端点和功能可能会发生变化。请始终参考 [Swagger 文档](https://api.nav789.com/swagger/#tag/Instagram) 以获取最新的 API 规范。
+
+## 联系方式
+
+如果您有任何问题、建议或需要技术支持，请通过以下方式联系我：
+
+📱 **Telegram**: [@LornTom](https://t.me/LornTom)
+
+---
+
+<div align="center">
+  <p>⭐ 如果这个项目对您有帮助，请给个 Star ⭐</p>
+</div>
