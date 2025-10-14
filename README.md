@@ -132,7 +132,7 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 
 ---
 
-**注意**：此 API 基于 Instagram iOS V397.1 的逆向工程。随着 Instagram 更新其平台，端点和功能可能会发生变化。请始终参考 [Swagger 文档](https://api.nav789.com/swagger/#tag/Instagram) 以获取最新的 API 规范。
+**注意**：此 API 基于 Instagram iOS V397.1 的逆向工程。随着 Instagram 更新其平台，端点和功能可能会发生变化。请始终参考 [Swagger 文档](https://api.************.com/swagger/#tag/Instagram) 以获取最新的 API 规范。
 
 ## 联系方式
 
