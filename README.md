@@ -138,6 +138,9 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 
 **注意**：此 API 基于 Instagram iOS V397.1 的逆向工程。随着 Instagram 更新其平台，端点和功能可能会发生变化。请始终参考 [Swagger 文档](https://api.************.com/swagger/#tag/Instagram) 以获取最新的 API 规范。
 
+
+![Instagram Private API Documentation](./6.png)
+
 ## 邮箱注册演示
 
 如果您想了解如何注册邮箱账户，可以观看我们的演示视频：
