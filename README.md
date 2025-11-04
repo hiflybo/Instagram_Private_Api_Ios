@@ -12,6 +12,9 @@ Instagram 397.1.0.38.81 (iPhone10,6; iOS 16_6_1; en_US; en; scale=3.00; 1125x243
 - Android_InstagramSSLPinningBypass-v399.js 兼容Android 397 398 399
 - fucker_ssl_v397_iphoneos-arm64.deb 只支持Ios 397 
 
+- Ins_v405.1_ssl_pinning_iphoneos-arm64.deb  支持到Instagram  v405.1
+  - ### 最新版V405 Instagram Private Api 即将发布，欢迎大家测试
+
 ###  <span style="color: #ff6b6b;">无限注册方式请参考以下邮箱注册演示部分</span>
 
 **API 文档地址**: <span style="color: #4ecdc4;">https://api.**********.com/swagger/#tag/Instagram</span>
