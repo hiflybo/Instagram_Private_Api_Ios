@@ -153,7 +153,7 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 
 如果您想了解如何注册邮箱账户，可以观看我们的演示视频：
 
-🎥 **演示视频**: [YouTube 邮箱注册教程](https://www.youtube.com/watch?v=3MMGISfAAco)
+🎥 **演示视频**: [YouTube 轻松注册教程](https://youtu.be/LaCFvsaEqLk)
 
 该视频详细展示了邮箱注册的完整流程，帮助您快速上手。
 
