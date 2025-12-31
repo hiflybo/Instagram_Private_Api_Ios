@@ -22,6 +22,13 @@ Instagram 397.1.0.38.81 (iPhone10,6; iOS 16_6_1; en_US; en; scale=3.00; 1125x243
 
 ## 功能特性
 
+
+### 2025-12-31 更新
+- 新增最小化登录接口 mixlogin ,仅需authorization 和user_id 即可调用接口
+- 修正INS登录接口返回
+- 其他bug修正
+
+
 该私有 API 实现支持广泛的 Instagram 操作：
 
 ### 用户管理
