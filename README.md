@@ -173,7 +173,8 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 📧 **Email**: <span style="color: #ff6b6b;">t303326#gmail.com</span>
 
 💰 **打赏地址(TRC20)**: <span style="color: #feca57;">TWj19UbByDbessQWEQEtgaqspMnAo1b66L</span>
-   [作者精力有限，请打赏后联系作者获取测试地址]
+
+[作者精力有限，请打赏后联系作者获取测试地址]
 
 ---
 
