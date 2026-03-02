@@ -13,15 +13,25 @@ Instagram 397.1.0.38.81 (iPhone10,6; iOS 16_6_1; en_US; en; scale=3.00; 1125x243
 - fucker_ssl_v397_iphoneos-arm64.deb 只支持Ios 397 
 
 - Ins_v405.1_ssl_pinning_iphoneos-arm64.deb  支持到Instagram  v405.1
-  - ### 最新版V405 Instagram Private Api 即将发布，欢迎大家测试
+  
 
-###  <span style="color: #ff6b6b;">无限注册方式请参考以下邮箱注册演示部分</span>
+## 关于Instagram账号
 
-**API 文档地址**: <span style="color: #4ecdc4;">https://api.**********.com/swagger/#tag/Instagram</span>
+### 购买地址：
+  - **成品账号**: [INS新号老号](https://ai.nav789.com)
+
+### 注册专用环境演示：
+  - **自研专用注册**: [注册云机体验](https://m.nav789.com)
+  - 测试环境未做网络加速，可能会有较高延时
+  - 目前2C4G配置，每天稳定正常注册180+
+
+
+###  <span style="color: #ff6b6b;">无限注册方式请参阅底部邮箱注册演示部分</span>
 
 
 ## 功能特性
 
+### **API 文档地址**: <span style="color: #4ecdc4;">https://api.**********.com/swagger/#tag/Instagram</span>
 
 ### 2025-12-31 更新
 - 新增最小化登录接口 mixlogin ,仅需authorization 和user_id 即可调用接口
@@ -169,8 +179,6 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 如果您有任何问题、建议或需要技术支持，请通过以下方式联系我：
 
 📱 **Telegram**: <span style="color: #48dbfb;">[@LornTom](https://t.me/LornTom)</span>
-
-📧 **Email**: <span style="color: #ff6b6b;">t303326#gmail.com</span>
 
 💰 **打赏地址(TRC20)**: <span style="color: #feca57;">TWj19UbByDbessQWEQEtgaqspMnAo1b66L</span>
 
