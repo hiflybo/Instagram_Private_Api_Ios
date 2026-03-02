@@ -21,7 +21,9 @@ Instagram 397.1.0.38.81 (iPhone10,6; iOS 16_6_1; en_US; en; scale=3.00; 1125x243
   - **成品账号**: [INS新号老号](https://ai.nav789.com)
 
 ### 注册专用环境演示：
-  - **自研专用注册**: [注册云机体验](https://m.nav789.com)
+  - **自研注册专用云环境**: [注册云机体验](https://m.nav789.com)
+  - 基于Android15,内核6.8.12，深度定制
+  - 目前已支持ins,facebook,threads,tiktok,line,telegram,whatsapp等多款应用
   - 测试环境未做网络加速，可能会有较高延时
   - 目前2C4G配置，每天稳定正常注册180+
 
