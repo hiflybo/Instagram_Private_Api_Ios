@@ -26,6 +26,7 @@ Instagram 397.1.0.38.81 (iPhone10,6; iOS 16_6_1; en_US; en; scale=3.00; 1125x243
   - 目前已支持ins,facebook,threads,tiktok,line,telegram,whatsapp等多款应用
   - 测试环境未做网络加速，可能会有较高延时
   - 目前2C4G配置，每天稳定正常注册180+
+  - [小水管，各位大佬手下留情]
 
 
 ###  <span style="color: #ff6b6b;">无限注册方式请参阅底部邮箱注册演示部分</span>
