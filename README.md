@@ -34,7 +34,7 @@ Instagram 397.1.0.38.81 (iPhone10,6; iOS 16_6_1; en_US; en; scale=3.00; 1125x243
 
 ## 功能特性
 
-### **API 文档地址**: <span style="color: #4ecdc4;">https://api.**********.com/swagger/#tag/Instagram</span>
+### **API 文档地址**: <span style="color: #4ecdc4;">https://api.nav789.com/swagger/#tag/Instagram</span>
 
 ### 2025-12-31 更新
 - 新增最小化登录接口 mixlogin ,仅需authorization 和user_id 即可调用接口
@@ -154,7 +154,7 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 
 ## 支持与文档
 
-- **完整 API 文档**：https://api.************.com/swagger/#tag/Instagram
+- **完整 API 文档**：https://api.nav789.com/swagger/#tag/Instagram
 - **问题追踪**：通过 GitHub Issues 提交问题
 - **更新**：定期检查 API 更新，因为 Instagram 会更改其平台
 
@@ -164,7 +164,7 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 
 ---
 
-**注意**：此 API 基于 Instagram iOS V397.1 的逆向工程。随着 Instagram 更新其平台，端点和功能可能会发生变化。请始终参考 [Swagger 文档](https://api.************.com/swagger/#tag/Instagram) 以获取最新的 API 规范。
+**注意**：此 API 基于 Instagram iOS V397.1 的逆向工程。随着 Instagram 更新其平台，端点和功能可能会发生变化。请始终参考 [Swagger 文档](https://api.nav789.com/swagger/#tag/Instagram) 以获取最新的 API 规范。
 
 
 ![Instagram Private API Documentation](./6.png)
