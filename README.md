@@ -2,11 +2,8 @@
 
 ## 概述
 
-本仓库包含了针对 Instagram iOS V397.1 的全面私有 API 实现。该 API 提供了对 Instagram 功能的程序化访问，使开发者能够构建高级自动化工具和应用程序。
+本仓库包含了针对 Instagram iOS V412 的全面私有 API 实现。该 API 提供了对 Instagram 功能的程序化访问，使开发者能够构建高级自动化工具和应用程序。
 
-Instagram 397.1.0.38.81 (iPhone10,6; iOS 16_6_1; en_US; en; scale=3.00; 1125x2436; 790717060) AppleWebKit/420+
-23966c53a485abc8a46056e59953606212796f430df44d03b1024a9403373fd7
-124024574287414
 
 ### Instagram SSL Pass
 - Android_InstagramSSLPinningBypass-v399.js 兼容Android 397 398 399
