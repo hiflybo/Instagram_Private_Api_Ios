@@ -28,6 +28,14 @@ Instagram 397.1.0.38.81 (iPhone10,6; iOS 16_6_1; en_US; en; scale=3.00; 1125x243
   - 目前2C4G配置，每天稳定正常注册180+
   - [小水管，各位大佬手下留情]
 
+### 注册环境本地部署教程：
+  - 账号注册：[注册云机体验](https://m.nav789.com)
+  - 在线教程：
+    - [油管视频](https://youtu.be/gP8seIB6z1Q) https://youtu.be/gP8seIB6z1Q
+    - [B站视频](https://www.bilibili.com/video/BV1DVQbBoEAF/) https://www.bilibili.com/video/BV1DVQbBoEAF/
+  - 一键部署命令：
+    curl -fsSL https://dl.nav789.com/minirom/install.sh | sudo bash
+
 
 ###  <span style="color: #ff6b6b;">无限注册方式请参阅底部邮箱注册演示部分</span>
 
