@@ -2,11 +2,8 @@
 
 ## 概述
 
-本仓库包含了针对 Instagram iOS V397.1 的全面私有 API 实现。该 API 提供了对 Instagram 功能的程序化访问，使开发者能够构建高级自动化工具和应用程序。
+本仓库包含了针对 Instagram iOS V412 的全面私有 API 实现。该 API 提供了对 Instagram 功能的程序化访问，使开发者能够构建高级自动化工具和应用程序。
 
-Instagram 397.1.0.38.81 (iPhone10,6; iOS 16_6_1; en_US; en; scale=3.00; 1125x2436; 790717060) AppleWebKit/420+
-23966c53a485abc8a46056e59953606212796f430df44d03b1024a9403373fd7
-124024574287414
 
 ### Instagram SSL Pass
 - Android_InstagramSSLPinningBypass-v399.js 兼容Android 397 398 399
@@ -42,7 +39,7 @@ Instagram 397.1.0.38.81 (iPhone10,6; iOS 16_6_1; en_US; en; scale=3.00; 1125x243
 
 ## 功能特性
 
-### **API 文档地址**: <span style="color: #4ecdc4;">https://api.**********.com/swagger/#tag/Instagram</span>
+### **API 文档地址**: <span style="color: #4ecdc4;">https://api.nav789.com/swagger/#tag/Instagram</span>
 
 ### 2025-12-31 更新
 - 新增最小化登录接口 mixlogin ,仅需authorization 和user_id 即可调用接口
@@ -149,9 +146,9 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 
 ## 版本兼容性
 
-- **Instagram iOS 应用版本**：V397.1
+- **Instagram iOS 应用版本**：V412
 - **API 基础**：模拟官方 Instagram iOS 端点
-- **签名算法**：与 V397.1 请求签名兼容
+- **签名算法**：与 V412 请求签名兼容
 
 ## 限制
 
@@ -162,7 +159,7 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 
 ## 支持与文档
 
-- **完整 API 文档**：https://api.************.com/swagger/#tag/Instagram
+- **完整 API 文档**：https://api.nav789.com/swagger/#tag/Instagram
 - **问题追踪**：通过 GitHub Issues 提交问题
 - **更新**：定期检查 API 更新，因为 Instagram 会更改其平台
 
@@ -172,7 +169,7 @@ API 使用基于会话的身份验证，模拟官方 Instagram iOS 应用（V397
 
 ---
 
-**注意**：此 API 基于 Instagram iOS V397.1 的逆向工程。随着 Instagram 更新其平台，端点和功能可能会发生变化。请始终参考 [Swagger 文档](https://api.************.com/swagger/#tag/Instagram) 以获取最新的 API 规范。
+**注意**：此 API 基于 Instagram iOS V412 的逆向工程。随着 Instagram 更新其平台，端点和功能可能会发生变化。请始终参考 [Swagger 文档](https://api.nav789.com/swagger/#tag/Instagram) 以获取最新的 API 规范。
 
 
 ![Instagram Private API Documentation](./6.png)
