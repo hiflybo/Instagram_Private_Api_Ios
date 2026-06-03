@@ -12,10 +12,11 @@
 - Ins_v405.1_ssl_pinning_iphoneos-arm64.deb  支持到Instagram  v405.1
   
 
-## 关于Instagram账号
+## 关于Instagram接口说明
 
-### 购买地址：
-  - **成品账号**: [INS新号老号](https://ai.nav789.com)
+### 体验地址：
+  - **体验地址**: [INS私有协议地址](https://api.nav789.com/swagger/)
+  - **SaaS系统**：[基于协议封装Saas系统](https://ins.nav789.com)
 
 ### 注册专用环境演示：
   - **自研注册专用云环境**: [注册云机体验](https://m.nav789.com)
